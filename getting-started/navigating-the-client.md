@@ -28,7 +28,7 @@ Selecting a Device will bring up that device's menu. Below is a screenshot of th
 
 ![](../.gitbook/assets/all-device-device-menu.svg)
 
-1. **Device Menu Tabs** - Different devices will have various supported tabs. All devices have an Updates Tab handling software updates for for device. The Control Hub has a Program and Manage Tab giving access to the Robot Control Console. The Control Hub also has a Backup and Restore Tab allowing for the back up and restoration of configuration files as well as blocks and java code.
+1. **Device Menu Tabs** - Different devices will have various supported tabs. All devices have an Updates Tab handling software updates for for device. The Control Hub has a Program and Manage Tab giving access to the Robot Control Console. The Control Hub also has a [Backup and Restore Tab](../control-hub/restoring-user-data.md) allowing for the back up and restoration of configuration files as well as blocks and java code.
 2. **Out of Date Warning** - There are two indicators that a part of the software on the device is out of date.
 3. **Download and Install** - Under each update type are buttons to download and install that update.
 4. **Update All** - This button will update all software items for all connected devices. This type of update can take a while depending on the number of devices connected and the type of update.
