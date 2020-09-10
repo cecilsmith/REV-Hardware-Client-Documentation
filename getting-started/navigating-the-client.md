@@ -4,7 +4,7 @@ The REV Hardware Client has three tabs to manage different features of the Clien
 
 ## Hardware Tab
 
-When first booting the REV Hardware Client the Hardware Tab is displayed.
+When opening the REV Hardware Client the Hardware Tab is displayed.
 
 ### No Hardware Detected
 
