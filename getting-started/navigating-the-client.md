@@ -4,7 +4,7 @@ The REV Hardware Client has three tabs to manage different features of the Clien
 
 ## Hardware Tab
 
-When opening the REV Hardware Client the Hardware Tab is displayed.
+The Hardware Tab is where supported hardware devices are managed in the REV Hardware Client. When opening the REV Hardware Client the Hardware Tab is displayed.
 
 ### No Hardware Detected
 
@@ -33,5 +33,21 @@ Selecting a Device will bring up that device's menu. Below is a screenshot of th
 3. **Download and Install** - Under each update type are buttons to download and install that update.
 4. **Update All** - This button will update all software items for all connected devices. This type of update can take a while depending on the number of devices connected and the type of update.
 
+## Downloads Tab
 
+The Downloads Tab is where download software files are managed. The latest software updates are able to be downloaded without a hardware device connected to the REV Hardware Client.
+
+![](../.gitbook/assets/downloads-tab.svg)
+
+1. **Downloaded Update Files -** This section allows for each version of software already downloaded to be viewed, released notes checked, and deleting the files from the local machine.
+2. **Available Update Files -** This section displays the latest version of software to download, release notes for that software, and a button to initiate the download.
+
+## About Tab
+
+The About Tab is where the REV Hardware Client is managed. Here updates for the REV Hardware Client are checked, downloaded, and installed.
+
+![](../.gitbook/assets/about-tab.svg)
+
+1. **Check for Updates -** This section displays the current version of the REV Hardware Client and allows for checking for software updates to the REV Hardware Client.
+2. **Supported Devices -** This section lists all of the currently supported devices for the version of the REV Hardware Client installed on the user's device.
 
