@@ -36,11 +36,3 @@ If that doesn't work, follow the steps for the type of device that is missing.
 * Unplug the phone from the computer and plug it back in. Look for a prompt to allow USB debugging, and click OK when it comes up.
 * Make sure that the ADB driver for your Android phone is installed. For Motorola phones, do this by installing Motorola Device Manager.
 
-## Error Codes
-
-The REV Hardware Client may generate an error code when it runs into an issue. Below are the current error codes:
-
-| Error Code | Description | Resolution |
-| :--- | :--- | :--- |
-| 429 | More than 16 uploads made in 12 hours.  | Wait until the date/time code provided to send upload. |
-
