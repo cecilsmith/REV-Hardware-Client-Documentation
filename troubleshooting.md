@@ -1,6 +1,6 @@
 # Troubleshooting
 
-## Do not see your Device?
+## Device is not visible
 
  If you don't see all of the devices that you expect to see, follow these steps:
 
