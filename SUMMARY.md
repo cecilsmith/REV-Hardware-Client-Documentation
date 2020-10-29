@@ -22,3 +22,7 @@
 * [Connecting an Android Device](android-device/connecting-an-android-device.md)
 * [Installing RC/DS Applications](android-device/installing-rc-ds-applications.md)
 
+---
+
+* [Troubleshooting](troubleshooting.md)
+
