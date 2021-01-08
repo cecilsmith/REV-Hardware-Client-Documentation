@@ -22,6 +22,12 @@
 * [Connecting an Android Device](android-device/connecting-an-android-device.md)
 * [Installing RC/DS Applications](android-device/installing-rc-ds-applications.md)
 
+## SPARK MAX
+
+* [Connecting a SPARK MAX](spark-max/connecting-a-spark-max.md)
+* [Updating SPARK MAX Software](spark-max/updating-spark-max.md)
+* [Navigating the Client - SPARK MAX](spark-max/navigating-the-client-spark-max.md)
+
 ---
 
 * [Troubleshooting](troubleshooting.md)
