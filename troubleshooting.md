@@ -36,3 +36,8 @@ If that doesn't work, follow the steps for the type of device that is missing.
 * Unplug the phone from the computer and plug it back in. Look for a prompt to allow USB debugging, and click OK when it comes up.
 * Make sure that the ADB driver for your Android phone is installed. For Motorola phones, do this by installing Motorola Device Manager.
 
+### SPARK MAX Motor Controller
+
+* Make sure that the SPARK MAX is not being used by another application, such as the REV SPARK MAX Client
+* Unplug the SPARK MAX from the computer and plug it back in
+
