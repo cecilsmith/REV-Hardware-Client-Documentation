@@ -28,7 +28,9 @@ The REV Hardware Client is software designed to make managing REV devices easier
 
 #### Version 1.1.0
 
-* Added support for SPARK MAX Motor Controller and Generic CAN Devices
+* Adds support for SPARK MAX and other CAN devices 
+* Allows for updating SPARK MAX devices, installing APIs, running motors, and viewing data from the SPARK MAX and its motor. 
+* Shows all recognized devices on a CAN bus, and the data that is sent on the bus
 
 #### Version 1.0.0
 
