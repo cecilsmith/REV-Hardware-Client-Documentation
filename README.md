@@ -2,7 +2,9 @@
 
 The REV Hardware Client is software designed to make managing REV devices easier for the user. This Client automatically detects connected device\(s\), downloads the latest software for those device\(s\), and allows for seamless updating of the device\(s\).
 
-[**Download the latest version of the REV Hardware Client**](https://www.revrobotics.com/content/sw/rev-hw-client/REV-Hardware-Client-Setup-1.1.0.exe) ****
+| Latest REV Hardware Client - Version 1.1.0 |
+| :---: |
+| [![](.gitbook/assets/download-latest-rev-hardware-client.svg)](https://www.revrobotics.com/content/sw/rev-hw-client/REV-Hardware-Client-Setup-1.1.0.exe) |
 
 ### Feature Summary
 
