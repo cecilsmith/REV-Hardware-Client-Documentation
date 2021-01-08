@@ -2,7 +2,7 @@
 
 Before starting downlead the latest version of the REV Hardware Client
 
-| Latest REV Hardware Client - Version 1.0.0 |
+| Latest REV Hardware Client - Version 1.1.0 |
 | :---: |
 | [![](../.gitbook/assets/download-latest-rev-hardware-client.svg)](https://www.revrobotics.com/content/sw/rev-hw-client/REV-Hardware-Client-Setup-1.1.0.exe) |
 

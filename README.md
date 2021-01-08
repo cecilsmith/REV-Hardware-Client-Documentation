@@ -26,6 +26,10 @@ The REV Hardware Client is software designed to make managing REV devices easier
 
 ### Change Log
 
+#### Version 1.1.0
+
+* Added support for SPARK MAX Motor Controller and Generic CAN Devices
+
 #### Version 1.0.0
 
 * Original Release
