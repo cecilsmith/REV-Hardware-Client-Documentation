@@ -22,6 +22,7 @@ The REV Hardware Client is software designed to make managing REV devices easier
 
 * REV Control Hub \(REV-31-1595\)
 * REV Expansion Hub \(REV-31-1153\)
+* REV Driver Hub \(REV-31-1596\)
 * Android Device via ADB
 * REV SPARK MAX \(REV-11-2158\)
 * Generic CAN Devices
