@@ -2,7 +2,7 @@
 
 The REV Hardware Client is software designed to make managing REV devices easier for the user. This Client automatically detects connected device\(s\), downloads the latest software for those device\(s\), and allows for seamless updating of the device\(s\).
 
-| Latest REV Hardware Client - Version 1.2.0 |
+| REV Hardware Client - Version 1.2.0 |
 | :---: |
 | [![](.gitbook/assets/download-latest-rev-hardware-client.svg)](https://www.revrobotics.com/content/sw/rev-hw-client/REV-Hardware-Client-Setup-1.2.0.exe) |
 
@@ -28,6 +28,31 @@ The REV Hardware Client is software designed to make managing REV devices easier
 * Generic CAN Devices
 
 ### Change Log
+
+#### Version 1.3.0
+
+* General updates:
+  * Adds FTC log viewer utility
+  * Can load log files directly from supported devices, or from anywhere on the user's computer
+  * Allows users to easily filter, search, and sort events parsed from log files
+  * Graphs the occurrence of important robot issues, and their corresponding timestamps
+  * Supports match, robot controller, driver station, Wi-Fi, and updater logs
+  * Shows release notes for client even when an update is not available
+  * Scales telemetry graph ranges automatically when using default ranges
+  * Fixes issue with devices showing up multiple times when changing CAN IDs
+  * Shows update progress for all devices that are updating simultaneously
+  * Updates users to the latest available client version when removing a software channel
+  * Other minor bug fixes
+* Control Hub specific updates:
+  * Improves stability of the connection to a Control Hub
+  * Includes program and manage logs with Control Hub diagnostic data sent to REV
+* SPARK MAX specific updates:
+  * Fixes issue with SPARK MAX analog telemetry
+  * Improves SPARK MAX parameter fields
+  * Fixes issue where a SPARK MAX in recovery mode could not be updated on some computers
+  * Adds interface to run multiple SPARK MAX devices
+  * Adds simplified support for configuring follower mode \(currently limited to following another SPARK MAX\)
+  * Shows a dropdown for the `Alternate Encoder -> kDataPortConfig` parameter
 
 #### Version 1.2.0
 
