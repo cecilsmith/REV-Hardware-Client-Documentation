@@ -33,10 +33,10 @@ The REV Hardware Client is software designed to make managing REV devices easier
 
 * General updates:
   * Adds FTC log viewer utility
-  * Can load log files directly from supported devices, or from anywhere on the user's computer
-  * Allows users to easily filter, search, and sort events parsed from log files
-  * Graphs the occurrence of important robot issues, and their corresponding timestamps
-  * Supports match, robot controller, driver station, Wi-Fi, and updater logs
+    * Can load log files directly from supported devices, or from anywhere on the user's computer
+    * Allows users to easily filter, search, and sort events parsed from log files
+    * Graphs the occurrence of important robot issues, and their corresponding timestamps
+    * Supports match, robot controller, driver station, Wi-Fi, and updater logs
   * Shows release notes for client even when an update is not available
   * Scales telemetry graph ranges automatically when using default ranges
   * Fixes issue with devices showing up multiple times when changing CAN IDs
