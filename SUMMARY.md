@@ -6,6 +6,7 @@
 
 * [Installation](getting-started/installation-instructions.md)
 * [Navigating the Client](getting-started/navigating-the-client.md)
+* [Troubleshooting](getting-started/troubleshooting.md)
 
 ## Control Hub
 
@@ -27,8 +28,4 @@
 * [Connecting a SPARK MAX](spark-max/connecting-a-spark-max.md)
 * [Updating SPARK MAX Software](spark-max/updating-spark-max.md)
 * [Navigating the Client - SPARK MAX](spark-max/navigating-the-client-spark-max.md)
-
----
-
-* [Troubleshooting](troubleshooting.md)
 
