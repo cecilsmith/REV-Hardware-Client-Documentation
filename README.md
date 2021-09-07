@@ -4,7 +4,7 @@ The REV Hardware Client is software designed to make managing REV devices easier
 
 | REV Hardware Client - Version 1.3.0 |
 | :---: |
-| [![](.gitbook/assets/download-latest-rev-hardware-client.svg)](https://www.revrobotics.com/content/sw/rev-hw-client/REV-Hardware-Client-Setup-1.3.0.exe) |
+| [![](.gitbook/assets/download-latest-rev-hardware-client.svg)](https://github.com/REVrobotics/REV-Software-Binaries/releases/download/rhc-1.3.0/REV-Hardware-Client-Setup-1.3.0.exe) |
 
 ### Feature Summary
 
