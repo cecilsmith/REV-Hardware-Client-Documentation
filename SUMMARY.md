@@ -13,6 +13,7 @@
 * [Connecting a Control Hub](control-hub/connecting-a-control-hub.md)
 * [Updating Control Hub](control-hub/updating-control-hub.md)
 * [Restoring User Data](control-hub/restoring-user-data.md)
+* [Using the Log Viewer](control-hub/using-the-log-viewer.md)
 
 ## Expansion Hub
 
