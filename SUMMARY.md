@@ -19,6 +19,11 @@
 
 * [Updating Expansion Hub](expansion-hub/updating-expansion-hub.md)
 
+## DRIVER HUB
+
+* [Connecting a Driver Hub](driver-hub/connecting.md)
+* [Updating a Driver Hub](driver-hub/updating-a-driver-hub.md)
+
 ## Android Device
 
 * [Connecting an Android Device](android-device/connecting-an-android-device.md)
