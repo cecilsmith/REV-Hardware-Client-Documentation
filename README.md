@@ -1,18 +1,18 @@
 # REV Hardware Client Overview
 
-The REV Hardware Client is software designed to make managing REV devices easier for the user. This Client automatically detects connected device\(s\), downloads the latest software for those device\(s\), and allows for seamless updating of the device\(s\).
+The REV Hardware Client is software designed to make managing REV devices easier for the user. This Client automatically detects connected device(s), downloads the latest software for those device(s), and allows for seamless updating of the device(s).&#x20;
 
-| REV Hardware Client - Version 1.3.0 |
-| :---: |
-| [![](.gitbook/assets/download-latest-rev-hardware-client.svg)](https://github.com/REVrobotics/REV-Software-Binaries/releases/download/rhc-1.3.0/REV-Hardware-Client-Setup-1.3.0.exe) |
+|                                                                          REV Hardware Client - Version 1.4.0                                                                         |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![](.gitbook/assets/download-latest-rev-hardware-client.svg)](https://github.com/REVrobotics/REV-Software-Binaries/releases/download/rhc-1.4.0/REV-Hardware-Client-Setup-1.4.0.exe) |
 
 ### Feature Summary
 
 * Automatically detect supported devices when connected via USB
-* Connect a REV Control Hub via WiFi
+* Connect a REV Control Hub via Wi-Fi
 * One Click update of all software on connected devices
 * Pre-download software updates without a connected device
-* Back up and restore user data from supported devices \(Control Hub and SPARK MAX\)
+* Back up and restore user data from supported devices (Control Hub and SPARK MAX)
 * Install and switch between DS and RC applications on Android Devices
 * Access the Robot Control Console on the Control Hub
 * Auto-update to latest version of the REV Hardware Client
@@ -20,11 +20,11 @@ The REV Hardware Client is software designed to make managing REV devices easier
 
 ### Supported Devices
 
-* REV Control Hub \(REV-31-1595\)
-* REV Expansion Hub \(REV-31-1153\)
-* REV Driver Hub \(REV-31-1596\)
+* REV Control Hub (REV-31-1595)
+* REV Expansion Hub (REV-31-1153)
+* REV Driver Hub (REV-31-1596)
 * Android Device via ADB
-* REV SPARK MAX \(REV-11-2158\)
+* REV SPARK MAX (REV-11-2158)
 * Generic CAN Devices
 
 ### Change Log
@@ -51,15 +51,15 @@ The REV Hardware Client is software designed to make managing REV devices easier
   * Improves SPARK MAX parameter fields
   * Fixes issue where a SPARK MAX in recovery mode could not be updated on some computers
   * Adds interface to run multiple SPARK MAX devices
-  * Adds simplified support for configuring follower mode \(currently limited to following another SPARK MAX\)
+  * Adds simplified support for configuring follower mode (currently limited to following another SPARK MAX)
   * Shows a dropdown for the `Alternate Encoder -> kDataPortConfig` parameter
 
 #### Version 1.2.0
 
 * General updates:
   * Allow installing previous versions of software
-  * Show client updates are available more subtly 
-  * Reconnect to ADB if it resets 
+  * Show client updates are available more subtly&#x20;
+  * Reconnect to ADB if it resets&#x20;
   * Show manufacturer names for generic android devices
   * Fixes issues with Control Hub and Expansion Hub firmware falsely saying out of date
   * Other minor bug fixes
@@ -78,13 +78,11 @@ The REV Hardware Client is software designed to make managing REV devices easier
 
 #### Version 1.1.0
 
-* Adds support for SPARK MAX and other CAN devices 
-* Allows for updating SPARK MAX devices, installing APIs, running motors, and viewing data from the SPARK MAX and its motor. 
+* Adds support for SPARK MAX and other CAN devices&#x20;
+* Allows for updating SPARK MAX devices, installing APIs, running motors, and viewing data from the SPARK MAX and its motor.&#x20;
 * Shows all recognized devices on a CAN bus, and the data that is sent on the bus
 
 #### Version 1.0.0
 
 * Original Release
-
-
 
