@@ -25,9 +25,20 @@ The REV Hardware Client is software designed to make managing REV devices easier
 * REV Driver Hub (REV-31-1596)
 * Android Device via ADB
 * REV SPARK MAX (REV-11-2158)
+* REV Power Distribution Hub (REV-11-1850)
+* REV Pneumatic Hub (REV-11-1852)
 * Generic CAN Devices
 
 ### Change Log
+
+#### Version 1.4.0
+
+* Adds support for the Power Distribution Hub and the Pneumatic Hub
+* Renames "Hub Firmware" to "Expansion/Control Hub Firmware"
+* Renames "Fatal" log event type to "Assert" in the FTC Log Viewer
+  * Hides Assert events by default
+* Allows longer filenames in the FTC log file selector
+* Fixes various bugs
 
 #### Version 1.3.0
 
